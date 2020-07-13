@@ -1,0 +1,56 @@
+.container{
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#pokemon{
+    height: 100px;
+    width: 230px;
+
+}
+.card{
+    height: 200px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: #FDC00D;
+    border-color:#2E4595 ;
+    border-width: 3px;
+    
+}
+
+img{
+    height: 190px;
+    width: 190px;
+}
+
+.nombre{
+    margin-top: 20px;
+    margin-block-end: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tipo{
+    margin-block-end: 10px;
+
+}
+
+.ataque{
+    margin-block-end: 10px;
+
+}
+
+.defensa{
+    margin-block-end: 10px;
+
+}
+
+.velocidad{
+    margin-block-end: 20px;
+
+}
